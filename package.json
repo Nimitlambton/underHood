@@ -22,7 +22,7 @@
   "homepage": "https://github.com/Nimitlambton/underHood#readme",
   "devDependencies": {
     "@babel/cli": "^7.1.0",
-    "@babel/core": "^7.1.0",
+    "@babel/core": "^7.20.12",
     "babel-loader": "^8.0.2",
     "css-loader": "^1.0.0",
     "style-loader": "^0.23.0",
